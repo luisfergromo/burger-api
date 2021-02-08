@@ -1,0 +1,46 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Tribute Burger",
+            "restaurant": "Honest Burgers",
+            "web": "www.honestbrg.com",
+            "description": "A mouth-watering honest beef burger",
+            "ingredients": [
+                "beef",
+                "burger sauce"
+            ],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Venn Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingston"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "LOL Burger",
+            "restaurant": "Honest Burgers",
+            "web": "www.honestbrg.com",
+            "description": "A mouth-watering honest beef burger",
+            "ingredients": [
+                "pork",
+                "burger sauce"
+            ],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Venn Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingston"
+                }
+            ]
+        }
+    ]
+}
